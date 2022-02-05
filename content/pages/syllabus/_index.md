@@ -48,13 +48,100 @@ For more of the course readings, please see the table in the [Readings]({{< base
 Grading Policy
 --------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Punctuality, attendance, preparation and participation {{< br >}}{{< br >}} *   _Come on time to every class_{{< br >}}*   _Prepare for every class by doing the assigned readings and exercises for in-class discussion_{{< br >}}*   _Contribute constructively to class dynamics_{{< br >}}*   _Hand in each assignment on its due date, unless you have made other arrangements in advance_{{< br >}}*   _Take responsibility for any unavoidable tardiness or absences by notifying the instructor in advance whenever possible, and by consulting with a classmate to learn what was covered in the class you missed_ {{< br >}}{{< br >}}  | 10% |
-|  {{< br >}}{{< br >}} Short exercises (5) {{< br >}}{{< br >}} *   _You are expected to prepare and hand in short assignments that provide practice in strategy (designing the best approach for your readers and purposes), retrieving and summarizing key information, and building fluency and accuracy_ {{< br >}}{{< br >}}  | 10% |
-|  {{< br >}}{{< br >}} In-class, open-book quizzes (5) {{< br >}}{{< br >}} *   _These short assessments will occur at the start of class and will take no more than 15 minutes_ {{< br >}}{{< br >}}  | 10% |
-|  {{< br >}}{{< br >}} Memos (2) {{< br >}}{{< br >}} *   _Memos should be typed in 12 point TimesNewRoman font, on standard 8.5 X 11" paper using single spacing. Memo formatting conventions require the audience, purpose and author information in the headings. Include page numbers on all documents longer than one page. Always use the spell-check tool before you share your document with others_ {{< br >}}{{< br >}}  | 15% |
-| Short formal papers (3) | 30% |
-| Final long paper | 25% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Punctuality, attendance, preparation and participation
+
+*   _Come on time to every class_
+*   _Prepare for every class by doing the assigned readings and exercises for in-class discussion_
+*   _Contribute constructively to class dynamics_
+*   _Hand in each assignment on its due date, unless you have made other arrangements in advance_
+*   _Take responsibility for any unavoidable tardiness or absences by notifying the instructor in advance whenever possible, and by consulting with a classmate to learn what was covered in the class you missed_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Short exercises (5)
+
+*   _You are expected to prepare and hand in short assignments that provide practice in strategy (designing the best approach for your readers and purposes), retrieving and summarizing key information, and building fluency and accuracy_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+In-class, open-book quizzes (5)
+
+*   _These short assessments will occur at the start of class and will take no more than 15 minutes_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Memos (2)
+
+*   _Memos should be typed in 12 point TimesNewRoman font, on standard 8.5 X 11" paper using single spacing. Memo formatting conventions require the audience, purpose and author information in the headings. Include page numbers on all documents longer than one page. Always use the spell-check tool before you share your document with others_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Short formal papers (3)
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final long paper
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 For more information on the papers listed in the table above, see the [Assignments]({{< baseurl >}}/pages/assignments) section.

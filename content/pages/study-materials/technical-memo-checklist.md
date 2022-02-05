@@ -14,7 +14,18 @@ Before you hand in your best draft of your technical memo, be sure you can make 
     *   Section headings are used where appropriate
 2.  My main message (conclusion) is in the first paragraph, within the first few sentences, of the memo. The reader can easily find the key contents.
     
-| State your memo's main message here in sentence form: |   
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+State your memo's main message here in sentence form:
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 * * *
 
