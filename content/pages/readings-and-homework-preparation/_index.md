@@ -6,7 +6,7 @@ uid: f67e416f-77de-7ab7-6baf-2273d4824ae4
 
 \[C\] = Caplan, Nigel A. _Grammar Choices for Graduate and Professional Writers (Michigan Series in English for Academic & Professional Purposes)_. University of Michigan Press ELT, 2012. ISBN: 9780472035014.
 
-\[CA\] = ———. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Commentary and Answer Key for _Grammar Choices for Graduate and Professional Writers_." (PDF)](http://www.press.umich.edu/elt/tm/9780472035014-key.pdf) University of Michigan Press ELT, 2012.
+\[CA\] = ———. ["Commentary and Answer Key for _Grammar Choices for Graduate and Professional Writers_." (PDF)](http://www.press.umich.edu/elt/tm/9780472035014-key.pdf) University of Michigan Press ELT, 2012.
 
 \[D\] = Day, Robert A., and Barbara Gastel. _How to Write and Publish a Scientific Paper_. 7th ed. Greenwood, 2011. ISBN: 9780313391972.
 
@@ -76,9 +76,9 @@ Strategy, process & style (1)
 
 \[D\] Chapter 3: Approaching a Writing Project.
 
-Hanson, Michael J. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Efficient Reading of Papers in Science and Technology." (PDF)](http://www.isi.edu/~johnh/TEACHING/CS551/ARCHIVE/Hanson99a.pdf)
+Hanson, Michael J. ["Efficient Reading of Papers in Science and Technology." (PDF)](http://www.isi.edu/~johnh/TEACHING/CS551/ARCHIVE/Hanson99a.pdf)
 
-Rettig, Hillary. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Optimizing Your Writing Process: Write Nonlinearly." (PDF)](https://tomprof.stanford.edu/posting/1226)
+Rettig, Hillary. ["Optimizing Your Writing Process: Write Nonlinearly." (PDF)](https://tomprof.stanford.edu/posting/1226)
 
 ### Interested in reading more?
 
@@ -146,7 +146,7 @@ Gorman, James. "[The Venus Flytrap, a Plant That Can Count](http://www.nytimes.c
 
 Delude, Cathryn. "[Vascular Disease: Pipe Repair](http://protomag.com/articles/vascular-disease-pipe-repair)." _Proto_, May 3, 2011.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Mind the Gap: Communicating Science to Diverse Audiences." (PDF)](http://www.councilscienceeditors.org/wp-content/uploads/v31n5p158.pdf) _Science Editor_ 31, no. 5 (2008): 158.
+["Mind the Gap: Communicating Science to Diverse Audiences." (PDF)](http://www.councilscienceeditors.org/wp-content/uploads/v31n5p158.pdf) _Science Editor_ 31, no. 5 (2008): 158.
 
 News Office. "[Letter Regarding the First Direct Detection of Gravitational Waves](http://news.mit.edu/2016/letter-regarding-first-direct-detection-gravitational-waves-0211)," _MIT News_, February 11, 2016.
 
@@ -194,7 +194,7 @@ E-mail, memos & letters
 
 Fitzgerald, Michael. "[How to Write a Memorable Memo](http://www.cio.com/article/2448330/collaboration/how-to-write-a-memorable-memo.html)." _CIO_, October 15, 2005.
 
-Swales, John W., and Christine B. Feak. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Appendix on Email Published in the 2nd Edition of _Academic Writing for Graduate Students_." (PDF)](http://www.press.umich.edu/resources/9780472034758-appendix.pdf) University of Michigan Press ELT, 2012.
+Swales, John W., and Christine B. Feak. ["Appendix on Email Published in the 2nd Edition of _Academic Writing for Graduate Students_." (PDF)](http://www.press.umich.edu/resources/9780472034758-appendix.pdf) University of Michigan Press ELT, 2012.
 
 
 {{< tdclose >}}
@@ -216,7 +216,7 @@ _Study the above; do tasks that have answer keys in \[CA\]; and bring questions 
 
 [Irregular Verb Dictionary](http://www.englishpage.com/irregularverbs/irregularverbs.html), englishpage.com
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Stative Verbs List](http://www.perfect-english-grammar.com/support-files/stative-verbs-list.pdf), perfectenglishgrammar.com
+[Stative Verbs List](http://www.perfect-english-grammar.com/support-files/stative-verbs-list.pdf), perfectenglishgrammar.com
 
 
 {{< tdclose >}}
@@ -260,7 +260,7 @@ Korkki, Phyllis. "[A Cover Letter is Not Expendable](http://www.nytimes.com/2009
 
 Loretto, Penny. "[How to Write a Cover Letter for a Finance Internship](https://www.thebalance.com/how-to-write-a-cover-letter-for-a-finance-internship-1986448)," The Balance, May 26, 2016.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["MIT Career Development Handbook 2016-2017." (PDF - 8.9MB)](https://gecd.mit.edu/sites/default/files/about/files/career-handbook.pdf)
+["MIT Career Development Handbook 2016-2017." (PDF - 8.9MB)](https://gecd.mit.edu/sites/default/files/about/files/career-handbook.pdf)
 
 ### Interested in reading more?
 
@@ -380,7 +380,7 @@ Kumar, M. Jagadesh. "[Making Your Research Paper Discoverable: Title Plays the W
 
  Rew, Lois J. "Table 20-1: Types and Characteristics of Summaries." In _Introduction to Technical Writing: Process & Practice_. 2nd edition. St. Martin's Press, 1993. ISBN: 9780312067816.
 
-Taylor, Dena. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[The Literature Review: A Few Tips On Conducting It](http://www.writing.utoronto.ca/advice/specific-types-of-writing/literature-review)," Health Sciences Writing Centre, University of Toronto.
+Taylor, Dena. "[The Literature Review: A Few Tips On Conducting It](http://www.writing.utoronto.ca/advice/specific-types-of-writing/literature-review)," Health Sciences Writing Centre, University of Toronto.
 
 _Sample journal abstract (informative)_
 
@@ -596,11 +596,11 @@ Conference papers & poster sessions
 
 Angelini, Alessandro. "[Art of the Conference Paper](https://www.insidehighered.com/advice/2010/11/03/art-conference-paper)." _Inside Higher Ed_, November 3, 2010.
 
-Connor, Carol Waite. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Poster Session: A Guide for Preparation." (PDF)](http://www.bikewalk.org/2010conference/poster_toolkit/Poster_Preparation.pdf)
+Connor, Carol Waite. ["The Poster Session: A Guide for Preparation." (PDF)](http://www.bikewalk.org/2010conference/poster_toolkit/Poster_Preparation.pdf)
 
 ### Interested in learning more about scientific presentations?
 
-Alley, Michael. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["_The Craft of Scientific Presentations: Critical Steps to Succeed and Critical Errors to Avoid_." (PDF - 3.0MB)](http://sharif.edu/~namvar/index_files/Scientific-Presentation.pdf) Springer, 2002. ISBN: 9780387955551.
+Alley, Michael. ["_The Craft of Scientific Presentations: Critical Steps to Succeed and Critical Errors to Avoid_." (PDF - 3.0MB)](http://sharif.edu/~namvar/index_files/Scientific-Presentation.pdf) Springer, 2002. ISBN: 9780387955551.
 
 ### Interested in reading more on posters?
 
